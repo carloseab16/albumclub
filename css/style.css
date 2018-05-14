@@ -113,7 +113,7 @@ p {
     }
     .navbar-brand img {
         padding-top: 25px;
-        height: 35px;
+       /* height: 5%;*/
         -webkit-transition: all 1s;
         -moz-transition: all 1s;
         -o-transition: all 1s;
